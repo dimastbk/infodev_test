@@ -1,6 +1,5 @@
 Django
 
-gunicorn
 python-dotenv
 
 flake8
